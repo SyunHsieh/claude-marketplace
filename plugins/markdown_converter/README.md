@@ -1,4 +1,4 @@
-# markitdown
+# markdown_converter
 
 File-to-Markdown conversion plugin for Claude Code. Converts PDF / Word / PowerPoint / Excel / HTML / EPUB / images / audio / CSV / JSON / XML into clean Markdown, caches results by SHA256, and enriches embedded images with semantic content (flowcharts → mermaid, tables → markdown tables, everything else → structured description).
 
@@ -84,7 +84,7 @@ Install from this marketplace:
 
 ```bash
 /plugin marketplace add SyunHsieh/claude-marketplace
-/plugin install markitdown@c0917-stacks
+/plugin install markdown_converter@c0917-stacks
 ```
 
 Then in any Claude Code session, just reference a supported file — the skill auto-triggers:

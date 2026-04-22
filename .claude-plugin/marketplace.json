@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "markitdown",
-      "source": "./plugins/markitdown",
+      "name": "markdown_converter",
+      "source": "./plugins/markdown_converter",
       "description": "Convert PDF/Word/PPT/Excel/HTML/EPUB/images/audio to Markdown with cached conversions and semantic image-to-markdown enrichment.",
       "version": "0.1.0"
     }

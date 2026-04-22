@@ -1,5 +1,5 @@
 {
-  "name": "markitdown",
+  "name": "markdown_converter",
   "description": "Convert PDF / Word / PowerPoint / Excel / HTML / EPUB / images / audio / CSV / JSON / XML to clean Markdown via Microsoft's markitdown, with sha256-keyed caching and image-to-markdown enrichment (flowcharts become mermaid, tables stay tables).",
   "version": "0.1.0",
   "author": {
