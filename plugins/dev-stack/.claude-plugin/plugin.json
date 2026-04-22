@@ -1,0 +1,9 @@
+{
+  "name": "dev-stack",
+  "description": "Enables Playwright + filesystem MCP servers as one toggleable bundle for dev work.",
+  "version": "0.1.0",
+  "author": {
+    "name": "SyunSie",
+    "email": "c0917099000@gmail.com"
+  }
+}

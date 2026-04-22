@@ -1,0 +1,9 @@
+{
+  "name": "work-stack",
+  "description": "Enables Gmail + Google Calendar + Google Drive MCP servers as one toggleable bundle.",
+  "version": "0.1.0",
+  "author": {
+    "name": "SyunSie",
+    "email": "c0917099000@gmail.com"
+  }
+}

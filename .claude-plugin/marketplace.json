@@ -1,0 +1,27 @@
+{
+  "name": "c0917-stacks",
+  "owner": {
+    "name": "SyunSie",
+    "email": "c0917099000@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "work-stack",
+      "source": "./plugins/work-stack",
+      "description": "Gmail + Google Calendar + Google Drive MCP servers bundled for office work.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "dev-stack",
+      "source": "./plugins/dev-stack",
+      "description": "Playwright + filesystem MCP servers bundled for dev work.",
+      "version": "0.1.0"
+    },
+    {
+      "name": "markitdown",
+      "source": "./plugins/markitdown",
+      "description": "Convert PDF/Word/PPT/Excel/HTML/EPUB/images/audio to Markdown with cached conversions and semantic image-to-markdown enrichment.",
+      "version": "0.1.0"
+    }
+  ]
+}
